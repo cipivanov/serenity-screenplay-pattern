@@ -1,4 +1,4 @@
-package com.serenity.journey.tracks.tasks;
+package com.serenity.journey.tracks.ui.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Performable;
@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 import net.thucydides.core.annotations.Step;
 
-import static com.serenity.journey.tracks.ui.LoginPage.*;
+import static com.serenity.journey.tracks.ui.ui.LoginPage.*;
 
 public class LoginUser implements Performable {
 

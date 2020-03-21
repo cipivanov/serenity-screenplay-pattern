@@ -1,6 +1,6 @@
-package com.serenity.journey.tracks.actions;
+package com.serenity.journey.tracks.ui.actions;
 
-import com.serenity.journey.tracks.ui.LoginPage;
+import com.serenity.journey.tracks.ui.ui.LoginPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.actions.Open;

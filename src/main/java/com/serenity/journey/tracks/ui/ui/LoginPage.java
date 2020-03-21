@@ -1,4 +1,4 @@
-package com.serenity.journey.tracks.ui;
+package com.serenity.journey.tracks.ui.ui;
 
 import net.serenitybdd.screenplay.targets.Target;
 import net.thucydides.core.annotations.DefaultUrl;

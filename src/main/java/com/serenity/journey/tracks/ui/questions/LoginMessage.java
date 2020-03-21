@@ -1,6 +1,6 @@
-package com.serenity.journey.tracks.questions;
+package com.serenity.journey.tracks.ui.questions;
 
-import com.serenity.journey.tracks.ui.HomePage;
+import com.serenity.journey.tracks.ui.ui.HomePage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;

@@ -1,8 +1,8 @@
-package com.serenity.journey.tracks.cucumber.steps;
+package com.serenity.journey.tracks.cucumber.steps.ui;
 
-import com.serenity.journey.tracks.actions.Start;
-import com.serenity.journey.tracks.questions.LoginMessage;
-import com.serenity.journey.tracks.tasks.LoginUser;
+import com.serenity.journey.tracks.ui.actions.Start;
+import com.serenity.journey.tracks.ui.questions.LoginMessage;
+import com.serenity.journey.tracks.ui.tasks.LoginUser;
 import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
